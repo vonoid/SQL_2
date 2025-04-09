@@ -1,0 +1,23 @@
+nginx:
+  image: nginx
+  version: latest
+  #1.14.2
+
+chartLabel: nginx
+
+targetPort: 80
+
+externalPort: 80
+
+replicaCount: 3
+
+ingress:
+  enabled: true
+  className: nginx
+  annotations:
+    nginx.ingress.kubernetes.io/rewrite-target: /
+  kubernetes.io/ingress.class: nginx
+    # kubernetes.io/tls-acme: "true"
+  host: hw25.ru
+
+nameTemplates: chart-nginx
