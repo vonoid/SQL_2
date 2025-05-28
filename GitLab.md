@@ -1,13 +1,14 @@
 # Домашнее задание к занятию "`GitLab`" - `Хамуро Илья`
 
 ### Задание 1
-Я выполнял задание через готовый образ GitLab в ЯндексCloud. Не понял как это делать это через Vargrant, так как этого в лекции не было.
-![Снимок экрана 2025-05-21 210601](https://github.com/user-attachments/assets/9ca14971-2806-46b7-8e9a-ff95bf5dc383)
-![Снимок экрана 2025-05-21 210607](https://github.com/user-attachments/assets/19adf6d0-7562-47c3-9ab3-68546aeff32b)
+Я выполнял задание через готовый образ GitLab в ЯндексCloud.
+![Снимок экрана 2025-05-29 003834](https://github.com/user-attachments/assets/7d3fe91a-1816-4138-849c-022975ad1ee7)
+![Снимок экрана 2025-05-29 005054](https://github.com/user-attachments/assets/05fc97ac-d58c-4bab-b6d6-236bd2c71b79)
+
 
 ### Задание 2
-Тут я вообще не понял в чес проблема, билд постоянно падал на последней стадии, пытался перенастраивать, но всё тщетно(
-![Снимок экрана 2025-05-21 212158](https://github.com/user-attachments/assets/ff536f55-7420-4490-9f43-8d34e4fc2f25)
-
-![Снимок экрана 2025-05-21 223325](https://github.com/user-attachments/assets/793fc1d4-af7f-4cb5-b356-b5371e25135f)
+![Снимок экрана 2025-05-29 011352](https://github.com/user-attachments/assets/095c4121-7154-4595-9796-f79dcd47818d)
+![Снимок экрана 2025-05-29 011052](https://github.com/user-attachments/assets/0e1c7dde-ef5a-499f-a61b-94825dbe6785)
+![Снимок экрана 2025-05-29 011127](https://github.com/user-attachments/assets/68747297-e17b-425f-a315-7ccb8c6683e9)
+![Снимок экрана 2025-05-29 011309](https://github.com/user-attachments/assets/2f4f6ae1-6bdf-4416-932a-fe61c40d679b)
 
