@@ -16,8 +16,6 @@
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.\
 ![Снимок экрана 2025-06-08 235811](https://github.com/user-attachments/assets/196a9715-eb1c-462a-9d60-0e0ffcabb85a)
 
-![Снимок экрана 2025-06-08 192321](https://github.com/user-attachments/assets/55236eea-fbb5-4e37-822d-3ccbaff1894f)
-
 ![Снимок экрана 2025-06-08 195452](https://github.com/user-attachments/assets/38463b8d-1f38-4dfb-917f-723e16608b8a)
 
 ### Задание 4
