@@ -16,20 +16,25 @@ $ systemctl restart zabbix-server zabbix-agent apache2\
 $ systemctl enable zabbix-server zabbix-agent apache2\
 
 ![Снимок экрана 2025-06-08 155100](https://github.com/user-attachments/assets/6fa7f33c-c100-4c9d-a88e-830a30450ff6)
+![Снимок экрана 2025-06-08 160706](https://github.com/user-attachments/assets/d0ed0153-dd4f-455b-9f5e-3cc8931e285a)
 
 
 ### Задание 2
 
-Установите Zabbix Agent на два хоста.
+Установите Zabbix Agent на два хоста.\
+Команды\
+$ sudo -s
+$ wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
+$ dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
+$ apt update
+$ apt install zabbix-agent
+$ systemctl restart zabbix-agent
+$ systemctl enable zabbix-agent
+![Снимок экрана 2025-06-08 173312](https://github.com/user-attachments/assets/52b201d8-6837-49ad-9cb0-3fd48fa1527e)
 
-Процесс выполнения
-Выполняя ДЗ, сверяйтесь с процессом отражённым в записи лекции.
-Установите Zabbix Agent на 2 вирт.машины, одной из них может быть ваш Zabbix Server.
-Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов.
-Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera.
-Проверьте, что в разделе Latest Data начали появляться данные с добавленных агентов.
-Требования к результатам
-Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
-Приложите в файл README.md скриншот лога zabbix agent, где видно, что он работает с сервером
-Приложите в файл README.md скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные.
-Приложите в файл README.md текст использованных команд в GitHub
+![Снимок экрана 2025-06-08 173716](https://github.com/user-attachments/assets/d002ad77-cd2c-445f-9c8d-67c797a679c5)
+
+![Снимок экрана 2025-06-08 173820](https://github.com/user-attachments/assets/b231d319-7e0b-4038-9553-d7225462cb4f)
+
+![Снимок экрана 2025-06-08 173905](https://github.com/user-attachments/assets/35d0a06f-3871-496e-ab6d-630930dd0702)
+
