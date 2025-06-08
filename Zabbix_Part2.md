@@ -4,7 +4,8 @@
 \
 Создайте свой шаблон, в котором будут элементы данных, мониторящие загрузку CPU и RAM хоста.\
 \
-![Снимок экрана 2025-06-08 195404](https://github.com/user-attachments/assets/2566cc57-6d5b-4882-8eb3-3df3cc6cdceb)
+![Снимок экрана 2025-06-08 235811](https://github.com/user-attachments/assets/7d03a554-9267-4a8c-b4fe-0a1a2ddf8233)
+
 
 ### Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -13,11 +14,14 @@
 
 ### Задание 3
 Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.\
+![Снимок экрана 2025-06-08 235811](https://github.com/user-attachments/assets/196a9715-eb1c-462a-9d60-0e0ffcabb85a)
+
 ![Снимок экрана 2025-06-08 192321](https://github.com/user-attachments/assets/55236eea-fbb5-4e37-822d-3ccbaff1894f)
 
 ![Снимок экрана 2025-06-08 195452](https://github.com/user-attachments/assets/38463b8d-1f38-4dfb-917f-723e16608b8a)
 
 ### Задание 4
 Создайте свой кастомный дашборд.\
-![Снимок экрана 2025-06-08 200640](https://github.com/user-attachments/assets/277fc004-20c1-412d-b3c6-a01ed50ff9e9)
+![Снимок экрана 2025-06-08 235436](https://github.com/user-attachments/assets/89e6a8e0-8605-4d07-826f-c42754570099)
+
 
